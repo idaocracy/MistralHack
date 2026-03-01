@@ -8,18 +8,18 @@ On the bottom right you can see buttons for each of the feature that was develop
 <img width="798" height="447" alt="image" src="https://github.com/user-attachments/assets/8402f5d8-ba4a-4e60-a51f-b11def49ae9c" />
 
 
-**OCR**
+## OCR
 By clicking the OCR button, it will take the current screen view and use OCR to detect and highlight characters. You can click on each highlight to get more information about the word. Click the X on the top right to remove the highlights.
 
 <img width="792" height="449" alt="image" src="https://github.com/user-attachments/assets/e377814a-97f7-4b19-9640-004b07f880de" />
 
-**Voice controller**
+## Voice controller
 By pressing the REC button, the game will start continuously record your voice input, making it possible to control the game using your voice. Press the button and say "Continue" to continue.
 
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/3c925c22-c269-4a16-8f20-7fbe0a2ef718" />
 
 
-**TTS**
+## TTS
 And finally we have the TTS button. It will take the dialogue text and turn it into speech. Try it now.
 
 <img width="798" height="449" alt="image" src="https://github.com/user-attachments/assets/fd64bb4d-0df9-487a-bfb2-de91e244fd01" />
