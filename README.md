@@ -20,7 +20,7 @@ By pressing the REC button, the game will start continuously record your voice i
 
 
 ## TTS
-And finally we have the TTS button. It will take the dialogue text and turn it into speech. Try it now.
+And finally we have the TTS button. It will take the dialogue text and turn it into speech.
 
 <img width="798" height="449" alt="image" src="https://github.com/user-attachments/assets/fd64bb4d-0df9-487a-bfb2-de91e244fd01" />
 
